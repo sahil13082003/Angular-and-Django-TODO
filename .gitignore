@@ -1,0 +1,21 @@
+# Python/Django
+venv/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+.DS_Store
+
+# Angular
+node_modules/
+dist/
+*.log
+.angular/
+.cache/
+
+# IDE files
+.idea/
+*.iml
